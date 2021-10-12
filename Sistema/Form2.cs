@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Sistema
 {
-    public partial class Loguin : Form
+    public partial class main : Form
     {
-        public Loguin()
+        public main()
         {
             InitializeComponent();
         }
